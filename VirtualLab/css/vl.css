@@ -1,0 +1,37 @@
+.vlWelcome{
+	margin-left:25px;
+	margin-top:10px;
+	width:1000px;
+	height:400px;
+	background-color:#ee7600;
+	border:1px solid #ee7600;
+	border-radius:35px;
+	text-align:center;
+	color:white;
+}
+
+.imagesRadius{
+	position:relative;
+	border-radius:500px;
+}
+.vlWriting{
+	float:left;
+	margin-left:30px;
+	width:300px;
+	height:200px;
+	border:3px solid white;
+	border-radius:25px;
+}
+.vlButtons{
+	margin-top:10px;
+	border:0 solid transparent;
+	border-radius:10px;
+	color:black;
+	width:150px;
+	height:50px;
+	font-size:18px;
+}
+input.imagesRadius:focus,
+input.imagesRadius:hover{
+ cursor:pointer;
+}
